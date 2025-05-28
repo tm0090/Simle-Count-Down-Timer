@@ -17,7 +17,7 @@ Built with **Python**, styled for clarity, and packaged into a lightweight `.exe
 
 ## 📷 Screenshot
 
-![screenshot](screenshot.png)  
+![screenshot](https://github.com/tm0090/Simle-Count-Down-Timer/blob/main/Screenshot%20.png)  
 
 ---
 
