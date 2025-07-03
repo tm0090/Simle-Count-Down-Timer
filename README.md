@@ -23,7 +23,7 @@ Built with **Python**, styled for clarity, and packaged into a lightweight `.exe
 
 ## 🚀 Download
 
-👉 [**Download latest release (.exe)**](https://github.com/tm0090/Simle-Count-Down-Timer/releases/tag/v1.0)
+👉 [**Download latest release (.zip)**](https://github.com/tm0090/Simle-Count-Down-Timer/releases/tag/v1.0)
 
 > ✅ Just download and run. No installation needed.
 
